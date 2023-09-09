@@ -2,7 +2,6 @@
 This is My Second task Of Portfolio , which describe About Myself  , my Project and Social media Community link Through which you can reach to me . 
 Here is View of Project.
 
-
-![Calculator](https://github.com/RavinderKashyap12/CodSoft-Portfolio/assets/120323053/4ae3fb42-85cf-4bb0-b048-b615f6b89d7b)
+![Portfolio](https://github.com/RavinderKashyap12/CodSoft-Portfolio/assets/120323053/837dac81-953c-49fd-81b4-ec0996dbf713)
 
 Thankyou!
